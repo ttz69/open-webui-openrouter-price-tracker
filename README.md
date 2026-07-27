@@ -1,4 +1,4 @@
-A simple Openrouter price tracker and balance checker
+A simple Openrouter price tracker and balance checker tool for Open WebUI
 
 Commands in chat:
 - /price: Pulls current prices for all models added to the tool's respective Valve and marks changes in price
